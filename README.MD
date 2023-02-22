@@ -11,3 +11,5 @@ To Run CCheck, use one or multiple of the available flags
 ``` 
 
 ## ToDo
+- Handle Errors gracefully
+- Add more available information
